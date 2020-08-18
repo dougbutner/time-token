@@ -1,6 +1,11 @@
 # Time Token WIP
 Time Token hashes a layer above timestamp and faucets free token to everyone requesting for past 12 hours if no other faucet in that time. 
 
+ 1. Faucet for any qualifying user
+ 2. Time U
+One token per time unit
+ 4. Fau
+
 Time tokens must be distributed in a 1 token per time unit manner. This token may be indivisible (suggested, and needed in cases like voting. 
 
 
@@ -18,7 +23,7 @@ Incentivation
 
 In cases that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyNzc3ODAxLC0zNDg4MDczNDAsMzg5NT
+eyJoaXN0b3J5IjpbNTIxMjMzODMwLC0zNDg4MDczNDAsMzg5NT
 ExNDY5LC05MTY3OTY4NDgsLTgxODE2ODg0NSwxMTQxNjgxMjk1
 XX0=
 -->
