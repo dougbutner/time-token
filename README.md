@@ -2,7 +2,7 @@
 Time Token hashes a layer above timestamp and faucets free token to everyone requesting for past 12 hours if no other faucet in that time. 
 
  1. Faucet for any qualifying user
- 2. Time U
+ 2. Time Units
 One token per time unit
  4. Fau
 
@@ -23,7 +23,7 @@ Incentivation
 
 In cases that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMjMzODMwLC0zNDg4MDczNDAsMzg5NT
-ExNDY5LC05MTY3OTY4NDgsLTgxODE2ODg0NSwxMTQxNjgxMjk1
-XX0=
+eyJoaXN0b3J5IjpbLTI1NDk4NDg1MiwtMzQ4ODA3MzQwLDM4OT
+UxMTQ2OSwtOTE2Nzk2ODQ4LC04MTgxNjg4NDUsMTE0MTY4MTI5
+NV19
 -->
