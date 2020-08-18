@@ -1,9 +1,7 @@
 # Time Token WIP
 Time Token hashes a layer above timestamp and faucets free token to everyone requesting for past 12 hours if no other faucet in that time. 
 
-Time tokens MUST BE distributed in a 1 token per time unit manner. This token SHOULD be indivisible. 
-
-
+Time tokens must be distributed in a 1 token per time unit manner. This token may be indivisible (suggested, and needed in cases like voting. 
 
 
 
@@ -12,7 +10,15 @@ Can user
 
 
 Time tokens are burnt when they are used, often transformed into another token that may identify the 
+
+
+
+
+Incentivation
+
+In cases that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODgwNzM0MCwzODk1MTE0NjksLTkxNj
-c5Njg0OCwtODE4MTY4ODQ1LDExNDE2ODEyOTVdfQ==
+eyJoaXN0b3J5IjpbMzAyNzc3ODAxLC0zNDg4MDczNDAsMzg5NT
+ExNDY5LC05MTY3OTY4NDgsLTgxODE2ODg0NSwxMTQxNjgxMjk1
+XX0=
 -->
