@@ -6,7 +6,10 @@ Time Token hashes a layer above timestamp and faucets free token to everyone req
 3. One token per time unit
  4. Faucet gives 1 token per time unit up to 1 full day, or other time unit when appropriate
 
-Examining These Points
+# Examining These Points
+
+ 1. Faucet for any qualifying user
+Individuality is required to build web 4, though hypothetically this system could be built for a specific sub unit of the population, like team members, where the user is given the account and the tokens, which the token's owner (a team leader) coul
 
 Time tokens must be distributed in a 1 token per time unit manner. This token may be indivisible (good for cases like voting for leaders, or yes and no). 
 
@@ -25,7 +28,7 @@ Incentivation
 
 In cases that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjgxODIzNCwtMTY5OTk5ODIzNCwtMj
-U0OTg0ODUyLC0zNDg4MDczNDAsMzg5NTExNDY5LC05MTY3OTY4
-NDgsLTgxODE2ODg0NSwxMTQxNjgxMjk1XX0=
+eyJoaXN0b3J5IjpbLTE2MjE2NDkzNzQsLTE2OTk5OTgyMzQsLT
+I1NDk4NDg1MiwtMzQ4ODA3MzQwLDM4OTUxMTQ2OSwtOTE2Nzk2
+ODQ4LC04MTgxNjg4NDUsMTE0MTY4MTI5NV19
 -->
