@@ -10,7 +10,7 @@ Time Token hashes a layer above timestamp and faucets free token to everyone req
 
  1. **Faucet for any qualifying user**
 
-Individuality is required to build web 4, though hypothetically this system could be built for a specific sub unit of the population, like team members, where the user is given the account and the tokens, which the token's owner (a team leader) could mint tokens for each decision to be made, or, more in the spirit, allow each person to accrue infinite time tokens starting at the time they start at the company. Have election require each person to vote, and a
+Individuality is required to build web 4, though hypothetically this system could be built for a specific sub unit of the population, like team members, where the user is given the account and the tokens, which the token's owner (a team leader) could mint tokens for each decision to be made, or, more in the spirit, allow each person to accrue infinite time tokens starting at the time they start at the company. Have election require each person to vote a certain amount, excluding those who had not worked there long enough, and
 
 
 
@@ -31,7 +31,7 @@ Incentivation
 
 In cases that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDc5NTM1OSwtMTY5OTk5ODIzNCwtMj
-U0OTg0ODUyLC0zNDg4MDczNDAsMzg5NTExNDY5LC05MTY3OTY4
-NDgsLTgxODE2ODg0NSwxMTQxNjgxMjk1XX0=
+eyJoaXN0b3J5IjpbLTEyOTc1MDMzNjMsLTE2OTk5OTgyMzQsLT
+I1NDk4NDg1MiwtMzQ4ODA3MzQwLDM4OTUxMTQ2OSwtOTE2Nzk2
+ODQ4LC04MTgxNjg4NDUsMTE0MTY4MTI5NV19
 -->
