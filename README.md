@@ -3,8 +3,8 @@ Time Token hashes a layer above timestamp and faucets free token to everyone req
 
  1. Faucet for any qualifying user
  2. Time Units
-One token per time unit
- 4. Fau
+3. One token per time unit
+ 4. Faucet gives 1 token per time unit up to 1 full day, or other time unit when appropriate
 
 Time tokens must be distributed in a 1 token per time unit manner. This token may be indivisible (good for cases like voting for leaders, or yes and no). 
 
@@ -23,7 +23,7 @@ Incentivation
 
 In cases that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk5OTgyMzQsLTI1NDk4NDg1MiwtMz
-Q4ODA3MzQwLDM4OTUxMTQ2OSwtOTE2Nzk2ODQ4LC04MTgxNjg4
-NDUsMTE0MTY4MTI5NV19
+eyJoaXN0b3J5IjpbLTQ0NTUyNDc1NiwtMTY5OTk5ODIzNCwtMj
+U0OTg0ODUyLC0zNDg4MDczNDAsMzg5NTExNDY5LC05MTY3OTY4
+NDgsLTgxODE2ODg0NSwxMTQxNjgxMjk1XX0=
 -->
