@@ -6,6 +6,10 @@ Time Token hashes a layer above timestamp and faucets free token to everyone req
 3. One token per time unit
 4. Faucet gives 1 token per time unit up to 1 full day, or other time unit when appropriate
 
+
+Can I forgiv myself for all the shit that I did,
+When I was gold mine mind wilin 
+
 # Examining These Points
 
  1. **Faucet for any qualifying user**
@@ -31,8 +35,8 @@ Incentivation
 
 In cases that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNTg2MDQ1LC0xMjk3NTAzMzYzLC0xNj
-k5OTk4MjM0LC0yNTQ5ODQ4NTIsLTM0ODgwNzM0MCwzODk1MTE0
-NjksLTkxNjc5Njg0OCwtODE4MTY4ODQ1LDExNDE2ODEyOTVdfQ
-==
+eyJoaXN0b3J5IjpbLTQwODYyODM2OSwzMzA1ODYwNDUsLTEyOT
+c1MDMzNjMsLTE2OTk5OTgyMzQsLTI1NDk4NDg1MiwtMzQ4ODA3
+MzQwLDM4OTUxMTQ2OSwtOTE2Nzk2ODQ4LC04MTgxNjg4NDUsMT
+E0MTY4MTI5NV19
 -->
