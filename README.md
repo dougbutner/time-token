@@ -1,10 +1,10 @@
 # Time Token WIP
 Time Token hashes a layer above timestamp and faucets free token to everyone requesting for past 12 hours if no other faucet in that time. 
 
- 1. Faucet for any qualifying user
- 2. Time Units
+1. Faucet for any qualifying user
+2. Time Units
 3. One token per time unit
- 4. Faucet gives 1 token per time unit up to 1 full day, or other time unit when appropriate
+4. Faucet gives 1 token per time unit up to 1 full day, or other time unit when appropriate
 
 # Examining These Points
 
@@ -31,7 +31,8 @@ Incentivation
 
 In cases that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc1MDMzNjMsLTE2OTk5OTgyMzQsLT
-I1NDk4NDg1MiwtMzQ4ODA3MzQwLDM4OTUxMTQ2OSwtOTE2Nzk2
-ODQ4LC04MTgxNjg4NDUsMTE0MTY4MTI5NV19
+eyJoaXN0b3J5IjpbMzMwNTg2MDQ1LC0xMjk3NTAzMzYzLC0xNj
+k5OTk4MjM0LC0yNTQ5ODQ4NTIsLTM0ODgwNzM0MCwzODk1MTE0
+NjksLTkxNjc5Njg0OCwtODE4MTY4ODQ1LDExNDE2ODEyOTVdfQ
+==
 -->
