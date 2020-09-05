@@ -1,4 +1,9 @@
-# Time Token WIP
+WIP
+# Time Tokens
+## A Conceptual Overview
+
+A time token is a unit of cryptocurrency
+
 Time Token hashes a layer above timestamp and faucets free token to everyone requesting for past 12 hours if no other faucet in that time. 
 
 1. Faucet for any qualifying user
@@ -34,7 +39,7 @@ Incentivation
 
 In cases that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzAyNTc0MSwtNDA4NjI4MzY5LDMzMD
+eyJoaXN0b3J5IjpbMjAxMzA0MjMyNSwtNDA4NjI4MzY5LDMzMD
 U4NjA0NSwtMTI5NzUwMzM2MywtMTY5OTk5ODIzNCwtMjU0OTg0
 ODUyLC0zNDg4MDczNDAsMzg5NTExNDY5LC05MTY3OTY4NDgsLT
 gxODE2ODg0NSwxMTQxNjgxMjk1XX0=
