@@ -1,4 +1,8 @@
-WIP
+# This is a WIP 
+I may not have time to flesh this our months/ 
+
+Go [here](https://github.com/dougbutner/web-4) for an overview 
+
 # Time Tokens
 ## A Conceptual Overview
 
@@ -39,8 +43,8 @@ Incentivation
 
 In cases that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzA0MjMyNSwtNDA4NjI4MzY5LDMzMD
-U4NjA0NSwtMTI5NzUwMzM2MywtMTY5OTk5ODIzNCwtMjU0OTg0
-ODUyLC0zNDg4MDczNDAsMzg5NTExNDY5LC05MTY3OTY4NDgsLT
-gxODE2ODg0NSwxMTQxNjgxMjk1XX0=
+eyJoaXN0b3J5IjpbLTIxNDY5NTQ5MywyMDEzMDQyMzI1LC00MD
+g2MjgzNjksMzMwNTg2MDQ1LC0xMjk3NTAzMzYzLC0xNjk5OTk4
+MjM0LC0yNTQ5ODQ4NTIsLTM0ODgwNzM0MCwzODk1MTE0NjksLT
+kxNjc5Njg0OCwtODE4MTY4ODQ1LDExNDE2ODEyOTVdfQ==
 -->
