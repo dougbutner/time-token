@@ -1,7 +1,7 @@
 # This is a WIP 
 I may not have time to flesh this out until spring 2021.
 
-Go [here](https://github.com/dougbutner/web-4) for an overview of where we're going with this, or read the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) to learn about the first implementation of time tokens
+Go [here](https://github.com/dougbutner/web-4) for an overview of where we're going with this, or read the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) to learn about the first implementation of time tokens.
 
 # Time Tokens
 ## A Conceptual Overview
@@ -43,8 +43,9 @@ Incentivation
 
 In cases that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3Nzc1NDc4LDIwMTMwNDIzMjUsLTQwOD
-YyODM2OSwzMzA1ODYwNDUsLTEyOTc1MDMzNjMsLTE2OTk5OTgy
-MzQsLTI1NDk4NDg1MiwtMzQ4ODA3MzQwLDM4OTUxMTQ2OSwtOT
-E2Nzk2ODQ4LC04MTgxNjg4NDUsMTE0MTY4MTI5NV19
+eyJoaXN0b3J5IjpbLTE1MjAyMDg3NjYsODI3Nzc1NDc4LDIwMT
+MwNDIzMjUsLTQwODYyODM2OSwzMzA1ODYwNDUsLTEyOTc1MDMz
+NjMsLTE2OTk5OTgyMzQsLTI1NDk4NDg1MiwtMzQ4ODA3MzQwLD
+M4OTUxMTQ2OSwtOTE2Nzk2ODQ4LC04MTgxNjg4NDUsMTE0MTY4
+MTI5NV19
 -->
